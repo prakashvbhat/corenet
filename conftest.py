@@ -20,7 +20,7 @@ import signal
 from types import FrameType
 from typing import Optional
 
-import numpy as np
+import "C:\Users\praveen v\Documents\GitHub\corenet\conftest.py", as np
 import pytest
 import torch
 
